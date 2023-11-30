@@ -1,0 +1,2 @@
+include ':myApp'
+rootProject.name = "MDP Group 36"
