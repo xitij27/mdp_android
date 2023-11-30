@@ -1,6 +1,5 @@
-# CZ3004_MDP_Android
-MDP Android Controller
-This android code was updated in 2022-2023 Semester 1.
+# CZ3004_MDP_Android  
+This code was updated in 2022-2023 Semester 1.
 It looks something like this 👇🏼  
 
 <img width="332" alt="mdp2" src="https://github.com/xitij27/mdp_android/assets/79000102/d0ef4ad3-342f-48ea-80d6-0c218fe22dd1">
